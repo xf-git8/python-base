@@ -1,0 +1,12 @@
+# use condition judge with wile if-test
+prompt = "Tell me something, and I will repeat it back to you:"
+prompt += "\nEnter 'quit' to end the program.please input: "
+info = ""
+active = True
+while active:
+    message = input(prompt)
+    if message == "quit":
+        active = False
+    else:
+        info += message
+print(info)

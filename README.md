@@ -5,3 +5,4 @@
  chapter 04 python list | tuple | slice | comprehensions
  chapter 05-chapter06 if-elif-else | for | dict with set
  chapter 07 while loop | list | if-else 
+ chapter 08 defin function with *variable **variable | list 

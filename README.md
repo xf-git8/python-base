@@ -5,4 +5,5 @@
  chapter 04 python list | tuple | slice | comprehensions
  chapter 05-chapter06 if-elif-else | for | dict with set
  chapter 07 while loop | list | if-else 
- chapter 08 defin function with *variable **variable | list 
+ chapter 08 define function with *variable **variable | list 
+ chapter 09 use class create object's attributes and methods

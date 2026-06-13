@@ -14,3 +14,5 @@ http://github.com/ehmatthes/pcc_3e
  chapter 08 define function with *variable **variable | list 
  
  chapter 09 use class by create object's attributes and methods
+ 
+ chatper 10 use exception | read | write with file
